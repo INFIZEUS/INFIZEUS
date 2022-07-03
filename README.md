@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Lakshit Jain</h1>
-<h3 align="center">I am a 2nd year Computer Science Undergraduate from UPES Dehradun. I'm a Tech Enthusiast, Front-end Developer and an Open Source Contributor. I love to explore and learn about new domains.</h3>
+<h1 align="center"><img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="35px" height="35px" alt=""> Hello World ! <img src="https://c.tenor.com/fmM4QaupL4wAAAAj/earth-png.gif" alr="" width="30px" height="30px"></h1>
+<h3 align="center">I am Lakshit Jain, a 2nd year Computer Science Undergrad from UPES Dehradun. I'm a Tech Enthusiast, Front-end Developer and an Open Source Contributor. I love to explore and learn about new domains.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infizeus&label=Profile%20views&color=0e75b6&style=flat" alt="infizeus" /> </p>
