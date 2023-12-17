@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infizeus&" alt="infizeus" /></p>
 
 ## Snake Eating My GitHub Contributions: 
-![snake gif](https://github.com/INFIZEUS/INFIZEUS/blob/output/github-contribution-grid-snake.gif)
+## ![snake gif](https://github.com/INFIZEUS/INFIZEUS/blob/output/github-contribution-grid-snake.gif)
